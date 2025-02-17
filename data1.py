@@ -9,3 +9,6 @@ def mul(x,y):
 x= int(input("enter your first digit: "))
 y= int(input("enter your second digit: "))
 print(mul(x,y))
+def div(x,y):
+    return x/y
+    
